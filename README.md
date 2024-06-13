@@ -1,16 +1,14 @@
-## Hi there 👋
+🕸️Bem vindo ao meu perfil🕸️
 
-<!--
-**lozerea/lozerea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎸Meu nome é João Victor mas pode me chamar de Jão🎸
 
-Here are some ideas to get you started:
+·💭Estou estudando na Alura💭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+·🖤Estou me desenvolvendo na linguagem javaScript🖤
+
+·☠️Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos☠️
+
+·📫Você pode entrar em contato comigo 📫
+00001114576815sp@al.educacao.sp.gov.br
+
+![](https://s2.ezgif.com/tmp/ezgif-2-11a11e3c36.gif)
